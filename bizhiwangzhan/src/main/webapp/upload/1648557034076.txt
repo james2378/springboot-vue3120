@@ -1,0 +1,12 @@
+$("password").remove();
+$('#role').attr('style', 'pointer-events: none;');
+
+display:none
+
+
+荣誉
+	 标题 类型 图片 教师 相关文件 详情
+
+
+
+
